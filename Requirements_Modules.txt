@@ -1,0 +1,12 @@
+Modules:
+
+numpy
+pandas
+nltk
+re
+string
+matplotlib
+sklearn
+CountVectorizer
+train_test_split
+BernoulliNB
